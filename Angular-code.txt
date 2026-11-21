@@ -2,3 +2,4 @@ ng new MultipleApps --no-create-application
 ng generate application EmpProject     
 ngserve --project="emp-project"
 npm install -g @angular/cli
+npm install --save web-animations-js
